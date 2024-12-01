@@ -1,6 +1,6 @@
 import React from "react";
 import { createDrawerNavigator } from "@react-navigation/drawer";
-import Filmes from "../screens/Filmes";
+import Filmes from "../screens/movies/Index";
 import StackNavigation from "./Stack";
 import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons"
 

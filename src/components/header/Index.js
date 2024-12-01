@@ -1,6 +1,6 @@
 import React from "react";
 import { View, Text, TouchableOpacity } from "react-native";
-import { Header, Menu, Titulo } from "./styleHeader";
+import { Header, Menu, Titulo } from "./styles";
 import { Feather } from "@expo/vector-icons"
 import { useNavigation } from "@react-navigation/native";
 

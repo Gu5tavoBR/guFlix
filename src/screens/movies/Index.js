@@ -1,6 +1,6 @@
 import React from "react";
 import { View, Text } from "react-native";
-import Header from "../components/Header";
+import Header from "../../components/header/Index";
 
 export default function Filmes() {
   return (
